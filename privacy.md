@@ -70,7 +70,7 @@ If you have any questions about this privacy policy or our privacy practices, pl
 Data Privacy Manager: Vicky Coates & Katherine Paines
 Email address: <a href="mailto:meetup-mates@tecknuovo.com?Subject= Meetup Mates Data Privacy Manager Query">meetup-mates@tecknuovo.com</a>
 <br>
-You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues <a href="www.ico.org.uk">www.ico.org.uk</a>. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues <a href="https://ico.org.uk/">www.ico.org.uk</a>. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
 
 </details>
 
