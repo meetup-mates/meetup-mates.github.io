@@ -79,9 +79,9 @@ You have the right to make a complaint at any time to the Information Commission
 <details>
  <summary><b>Changes to the privacy policy and your duty to inform us of changes</b>
   <br>
-We keep our privacy policy under regular review. This version was last updated on 04.09.2020. <br></summary>
+We keep our privacy policy under regular review. This version was last updated on 21.09.2020. <br></summary>
 
-Historic versions are archived <a href="http://timetravel.mementoweb.org/reconstruct/20200904121212/https://meetup-mates.com/privacy/">here</a>. 
+Historic versions are archived <a href="https://web.archive.org/web/20200921103715/https%3A%2F%2Fmeetup-mates.com%2Fprivacy%2F">here</a>. 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
 </details>
@@ -271,7 +271,8 @@ If, via human error, or via a breach of our security, we fail to comply with the
 **<a id="Updates"></a>13. Updates**
 
 Further updates will be noted here as and when they are made.
-- 4th September 2020: Privacy Policy updated - updated links that had become outdated
+- 21st September 2020: Privacy Policy updated - updated outdated links
+- 4th September 2020: Privacy Policy updated - updated outdated links
 - 12 June 2019: Privacy Policy updated
 - 23 May 2019: Privacy Policy updated
 
