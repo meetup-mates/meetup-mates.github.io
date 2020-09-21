@@ -19,6 +19,6 @@ Please [email us](mailto:meetup-mates@tecknuovo.com?Subject= I want to become a 
 
 ### Conference Partners:
 
-|[![MeetupMates_KubernetesCommunityDay](/img/KubernetesCommunityDays_London.jpg "Kubernetes Community Day London loves Meetup Mates!")](https://kubernetescommunitydays.org/events/2020-london/)|[![MeetupMates_DevOpsDaysLondon](/img/DevOpsDays_London.png "DevOpsDays London loves Meetup Mates!")](https://devopsdays.org/events/2020-london/welcome/)|
+|[![MeetupMates_KubernetesCommunityDay](/img/KubernetesCommunityDays_London.jpg "Kubernetes Community Day London loves Meetup Mates!")](https://kubernetescommunitydays.org/events/2021-london/)|[![MeetupMates_DevOpsDaysLondon](/img/DevOpsDays_London.png "DevOpsDays London loves Meetup Mates!")](https://devopsdays.org/events/2020-london/welcome/)|
 
 
